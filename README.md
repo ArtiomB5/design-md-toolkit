@@ -1,4 +1,4 @@
-```markdown
+
 # OpenCode DESIGN.md Toolkit
 
 **Consistent, on-brand UI generation for AI coding agents — powered by [DESIGN.md](https://github.com/google/design.md).**
@@ -196,4 +196,4 @@ Found a bug, want to improve the prompts, or add a new mode? Pull requests are w
 ## License
 
 MIT — see the [LICENSE](LICENSE) file for details.
-```
+
