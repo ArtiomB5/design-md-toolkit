@@ -163,8 +163,8 @@ Required handling:
   
 Repeat edit → lint → fix until zero errors.  
   
-## Step 5: Update AGENTS.md and CLAUDE.md  
-Check for AGENTS.md and CLAUDE.md in the project root.  
+## Step 5: Update AGENTS.md  
+Check for AGENTS.md in the project root.  
   
 For each file that exists, locate the block:  
   
@@ -191,7 +191,7 @@ Insert this block (fill in actual values from the generated DESIGN.md):
 AI agents: always apply this design system when generating UI. Do not invent new colors or spacing; refer to \`DESIGN.md\`.  
 <!-- DESIGN_SYSTEM_END -->  
   
-Ensure the block content is identical in both AGENTS.md and CLAUDE.md after updating.  
+Ensure the block content is identical in both AGENTS.md after updating.  
   
 ## Step 6: Confirm completion  
 Report:  
@@ -200,4 +200,4 @@ Report:
 - Which token sources were found (codebase scan) or source file used (Figma import)  
 - How many colors, typography tokens, spacing levels, and components were defined  
 - Lint result (errors fixed, warnings remaining)  
-- Which project files were updated (AGENTS.md / CLAUDE.md)
+- Which project files were updated (AGENTS.md)
