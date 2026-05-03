@@ -6,7 +6,6 @@ description: >-
   whenever you need to style UI components, implement visual designs, or ensure  
   consistency with an existing DESIGN.md file in the project. Optionally accepts  
   a path to a specific DESIGN.md file.  
-compatibility: opencode  
 metadata:  
   spec-url: https://github.com/google-labs-code/design.md  
   version: "1.0"  
